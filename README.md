@@ -1,4 +1,4 @@
-##requirements£º
-####flask
-####PIL
-####numpy
+## requirements
+* flask
+* PIL
+* numpy
